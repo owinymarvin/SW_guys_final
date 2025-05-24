@@ -2,6 +2,6 @@
 
 ### u can try any other python but it might not work
 
-make virtual env
-pip run -r requirements.txt
-python app.py
+1. make virtual env
+2. pip run -r requirements.txt
+3. python app.py
