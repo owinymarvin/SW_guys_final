@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 kinetics_classnames.json
 kinetics_classnames.json
+hf_model_cache/
+hf_model_cache
 # C extensions
 *.so
 
